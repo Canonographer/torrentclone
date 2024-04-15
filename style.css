@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600");
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, "Lucida Grande", sans-serif;
+    background: #000404;
+}
+
+
+
+.web-logo{
+    padding-left: -2000px;
+}
+
+#searchbar{
+    background: #000404 url(./images/icon-search.svg) no-repeat 9px 9px;
+    padding: 4px 30px;
+    width: 250px;
+    height: 28px;
+    font-size: .85em;
+    font-weight: bold;
+    border: 2px solid rgb(44, 42, 42);
+  border-radius: 20px;
+  color: #919191;
+  font-family: inherit;
+    
+}
+.navsearch{
+    border: 2px solid #333;
+    border-radius: 20px;
+  
+}
+#text{
+    padding-top: 12px;
+    color: rgb(102, 102, 102);
+}
+
+.carousel-caption{
+    text-align: center;
+    margin: 10px;
+    margin-bottom: 100px;
+}
+
+/* .moviename{
+    opacity: 0;
+    -webkit-transition: opacity 0.5s ease-in-out;
+    -moz-transition: opacity 0.5s ease-in-out;
+    transition: opacity 0.5s ease-in-out;
+}
+.moviename:hover{
+    opacity: 0.9; */
+/* } */
+/* .film-bg{
+    filter: blur(0px);
+}
+.film-bg:hover{
+    filter: blur(8px);
+} */
+
+h2{
+    text-shadow: 2px 2px #f5eded00;
+    font-weight: bold;
+}
